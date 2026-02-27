@@ -1,6 +1,6 @@
 local colors = require('ayu.colors')
 
-local transparent =  transparent = "#00000000"
+local transparent = "#00000000"
 
 local ayu = {
   visual = {
